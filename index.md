@@ -8,7 +8,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 * <a href="https://linkedin.com/in/sodiq-jinad" target="_blank">LinkedIn</a>
 
 
-< img
+<img
 src="/img/IMG_20230919_082837~4.jpg"
-alt="My passport"
+alt="Sodiq Jinad"
 width="25%">
