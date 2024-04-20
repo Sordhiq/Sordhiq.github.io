@@ -7,4 +7,4 @@ A data scientist, researcher and climate advocate passionate about the applicati
 * LinkedIn
 * Twitter/X
 
-![Africa Union Fellowship](https://auinnovationfellowship.com/wp-content/uploads/2021/09/AU_LOGO_ENGLISH_PNG-1536x816.png)
+![My passport photograph](https://github.com/Sordhiq/Sordhiq.github.io/blob/main/img/IMG_20230919_082837~4.jpg))
