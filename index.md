@@ -23,6 +23,4 @@ _TEDSAy_
 
 
 
-
 <embed type="text/html" src="dac.html" width="600" height="600">
-
