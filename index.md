@@ -1,6 +1,6 @@
 # Sodiq Jinad
 
-<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="50%" align="right" />
+<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="40%" align="right" />
 
 Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data science and scientific techniques in advancing climate action and sustainable development.
 
@@ -8,14 +8,14 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 
 ## 🎓 Education
 
-**Ph.D. in Horticultural Science / Computer Science**  
-_University of Wisconsin - Madison_  
+**Bachelor of Science, Statistics and Data Analytics**  
+_Ahmadu Bello University, Zaria - Nigeria_  
 
-**M.Sc. in Environmental and Conservation Science**  
-_North Dakota State University_  
+**Diplo**  
+_ University_  
 
-**B.Tech. in Agricultural Information Technology**  
-_Tamil Nadu Agricultural University_  
+**Dip**  
+_TEDSAy_  
 
 ---
 
