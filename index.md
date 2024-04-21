@@ -1,6 +1,6 @@
 # Sodiq Jinad
 
-<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="25%" align="right" />
+<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="50%" align="right" />
 
 Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data science and scientific techniques in advancing climate action and sustainable development.
 
