@@ -24,8 +24,5 @@ _TEDSAy_
 
 
 
-
-
-
-<embed type="text/html" src="dac.html" width="500" height="500">
+<embed type="text/html" src="dac.html" width="600" height="600">
 
