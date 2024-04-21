@@ -1,7 +1,7 @@
 # Sodiq Jinad
 
 <img
-src="/img/IMG_20230919_082837~4.jpg"
+src="/img/headshot.jpg"
 alt="Sodiq Jinad"
 width="25%">
 
