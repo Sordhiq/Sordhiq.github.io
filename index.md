@@ -8,17 +8,16 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 
 ## 🎓 Education
 
-**Professional Data Science Certification**                                                               April 2024
-
+**Professional Data Science Certification**                   
 _World Quant University, United States_  
 
-| **Professional Diploma, Data Science**  |
 
+| **Professional Diploma, Data Science**  |
 | _Explore Data Science Academy, South Africa_  |
 
 | **Bachelor of Science, Statistics and Data Analytics** |
+_Ahmadu Bello University, Zaria - Nigeria_  |
 
-_Ahmadu Bello University, Zaria - Nigeria_  
 
 
 ## 💼 Research & Work Experience
