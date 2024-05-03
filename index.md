@@ -1,6 +1,6 @@
 # Sodiq Jinad
 
-<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="30%" align="right" />
+<img src="/img/headshot.jpg" alt="Sodiq Jinad" width="25%" align="right" />
 
 Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data science and scientific techniques in advancing climate action and sustainable development.
 
@@ -26,4 +26,4 @@ _Ahmadu Bello University, Zaria - Nigeria_  |
 _Lagos State Bureau of Statistics, Lagos - Nigeria_
 
 
-<embed type="text/html" src="img/dac.html" width="600" height="600"> </embed>
+<embed type="text/html" src="img/dac.html" width="300" height="300"> </embed>
