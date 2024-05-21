@@ -4,5 +4,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: <img src="/img/headshot.jpg" alt="Boy OT" width="50%" /> <embed>
+title: <img src="/img/headshot.jpg" alt="Boy OT" /> <embed>
 description: This is a site for personal portfolio and other nice stuffs
