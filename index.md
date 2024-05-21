@@ -25,7 +25,6 @@ _Ahmadu Bello University, Zaria - Nigeria_
   _OdumareTech, United Kingdom_
 
 **Data Analyst**          
-
 _Lagos State Bureau of Statistics, Nigeria_
 
 **Data Analyst**  
@@ -35,6 +34,7 @@ _Lagos State Bureau of Statistics, Nigeria_
 _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 ## 🔭 Projects
+<img src="/img/headshot.jpg" alt="Project Pix" width="25%" />
 
 
 
@@ -47,4 +47,4 @@ _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 
 
-<embed type="text/html" src="img/dac.html" width="50" height="50"> </embed>
+<embed type="text/html" src="img/dac.html" width="500" height="500"> </embed>
