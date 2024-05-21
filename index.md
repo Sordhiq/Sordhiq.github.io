@@ -1,5 +1,7 @@
 # Sodiq Jinad
 
+<img src="/img/headshot.jpg" alt="Otolorin" width="25%" align="right" />
+
 Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data advancing climate action and sustainable development. My area of interest lies in the application of machine learning and scientific in advancing climate mitigation and adaptation.
 
 ---
