@@ -34,7 +34,8 @@ _Lagos State Bureau of Statistics, Nigeria_
 _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 ## 🔭 Projects
-<img src="/img/headshot.jpg" alt="Project Pix" width="25%" />
+20 years Study of Cape Town Preciptation over Time
+<img src="/img/Precip over time.png" alt="Project Pix" width="100%" />
 
 
 
@@ -47,4 +48,4 @@ _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 
 
-<embed type="text/html" src="img/dac.html" width="500" height="500"> </embed>
+<embed type="text/html" src="img/dac.html" width="400" height="400"> </embed>
