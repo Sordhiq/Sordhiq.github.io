@@ -1,6 +1,5 @@
 # Sodiq Jinad
 
-<img src="/img/headshot.jpg" alt="Otolorin" width="25%" align="right" />
 
 Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data advancing climate action and sustainable development. My area of interest lies in the application of machine learning and scientific in advancing climate mitigation and adaptation.
 
@@ -29,6 +28,9 @@ _Ahmadu Bello University, Zaria - Nigeria_
 
 _Lagos State Bureau of Statistics, Nigeria_
 
+**Data Analyst**  
+_Lagos State Bureau of Statistics, Nigeria_
+
 **Research Associate**  
 _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
@@ -45,4 +47,4 @@ _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 
 
-<embed type="text/html" src="img/dac.html" width="200" height="200"> </embed>
+<embed type="text/html" src="img/dac.html" width="50" height="50"> </embed>
