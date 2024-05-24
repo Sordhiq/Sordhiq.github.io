@@ -1,7 +1,7 @@
 # Sodiq Jinad
 
 
-Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data advancing climate action and sustainable development. My area of interest lies in the application of machine learning and scientific in advancing climate mitigation and adaptation.
+
 
 ---
 
@@ -17,9 +17,9 @@ _Explore Data Science Academy, South Africa_
 **Bachelor of Science, Statistics and Data Analytics**  
 _Ahmadu Bello University, Zaria - Nigeria_  
 
+---
 
-
-## 💼 Research & Work Experience
+## 💼 Work Experiences
 
 **Data Analytics Tutor (Remote)**      
   _OdumareTech, United Kingdom_
@@ -33,14 +33,23 @@ _Lagos State Bureau of Statistics, Nigeria_
 **Research Associate**  
 _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
+---
+## 🔬 Research and Publications
+Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria
+
+---
+
 ## 🔭 Projects
 20 years Study of Cape Town Preciptation over Time
+
+---
+
+
 <img src="/img/Precip over time.png" alt="Project Pix" width="100%" />
 
 
 
 
-## 🔬 Research and Publications
 
 
 
