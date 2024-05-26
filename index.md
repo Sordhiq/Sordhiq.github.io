@@ -27,7 +27,7 @@ _Ahmadu Bello University, Zaria - Nigeria_
 **Data Analyst**          
 _Lagos State Bureau of Statistics, Nigeria_
 
-**Research Associate**  
+**Research Assistant**  
 _Enhancing Financial Innovation and Access (EFInA), Nigeria_
 
 **Audit Analyst**  
