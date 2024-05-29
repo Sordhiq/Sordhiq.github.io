@@ -35,7 +35,11 @@ _Lagos Audit Service Commission, Nigeria_
 
 ---
 ## 🔬 Research and Publications
-[Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria](https://www.researchgate.net/publication/364309400)
+Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria[here](https://www.researchgate.net/publication/364309400)
+
+Project PET House – A Research Innovation on Tackling Plastic Pollution in Ahmadu Bello University. [here](https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
+
+Data Science in Environmental Sustainability. [here](https://link.medium.com/qP9FLlY4xAb )
 
 ---
 
