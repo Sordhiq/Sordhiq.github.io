@@ -7,8 +7,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 
 ## 🎓 Education
 
-**Data Science [(Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
-
+**Data Science [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
 _World Quant University, United States_  
 
 
@@ -38,7 +37,7 @@ _Lagos Audit Service Commission, Nigeria_
 ## 🔬 Research and Publications
 Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria [[here]](https://www.researchgate.net/publication/364309400)
 
-Project PET House – A Research Innovation on Tackling Plastic Pollution in Ahmadu Bello University [[here]](https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
+Project PET House – A Research Innovation to Tackling Plastic Pollution in Ahmadu Bello University [[here]](https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
 
 Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP9FLlY4xAb )
 
