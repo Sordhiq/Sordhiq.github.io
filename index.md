@@ -11,7 +11,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
  _World Quant University, United States_  
 
 
-**Data Science (Diploma)**  
+**Data Science (Professional Certification)**  
 _Explore Data Science Academy, South Africa_  
 
 **Statistics and Data Analytics (Bachelors Degree)**  
@@ -50,6 +50,12 @@ Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP
 
 
 <img src="/img/Precip over time.png" alt="Project Pix" width="100%" />
+
+---
+Athena: Health classification model
+<img src="/img/health clust.png" alt="Project Pix" width="100%" />
+
+---
 
 
 
