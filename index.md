@@ -21,7 +21,7 @@ _Ahmadu Bello University, Zaria - Nigeria_
 
 ## 💼 Work Experiences
 
-**Data Analytics (Remote Tutor)**      
+**Data Analytics Tutor (Remote)**      
   _OdumareTech, United Kingdom_
 
 **Data Analyst**          
@@ -44,12 +44,11 @@ Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP
 ---
 
 ## 🔭 Projects
-20 years Study of Cape Town Preciptation over Time
-
 ---
+| **20 years Study of Cape Town Preciptation over Time** |
 
 
-<img src="/img/Precip over time.png" alt="Project Pix" width="100%" />
+| <img src="/img/Precip over time.png" alt="Project Pix" width="100%" /> |
 
 ---
 Athena: Health classification model
