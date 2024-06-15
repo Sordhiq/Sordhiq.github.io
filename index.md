@@ -9,7 +9,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 ---
 
 **Applied Data Science Lab [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
-  _World Quant University, United States_  
+_World Quant University, United States_  
 
 
 **Data Science Qualification [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
@@ -39,12 +39,13 @@ _Lagos Audit Service Commission, Nigeria_
 ## 🔬 Research and Publications
 ---
 
-Understanding Relationships between Species, Nucleotide Sequences and how Variation Influences Habitat Prediction using eDNA Samples [[here]](https://gainforest.notion.site/AI-Environment-Hackathon-2024-Wiki-27f7f5459ea743b2bec1b9b11af54ef4?p=002d7ee74a4d41859fa09412180facd3&pm=s)
+Understanding Relationships between Species, Nucleotide Sequences and how Variation Influences Habitat Prediction using eDNA Samples **[[here]]**
+(https://gainforest.notion.site/AI-Environment-Hackathon-2024-Wiki-27f7f5459ea743b2bec1b9b11af54ef4?p=002d7ee74a4d41859fa09412180facd3&pm=s)
 
 
-Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria [[here]](https://www.researchgate.net/publication/364309400)
+Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria **[[here]]**(https://www.researchgate.net/publication/364309400)
 
-Project PET House – A Research Innovation to Tackling Plastic Pollution in Ahmadu Bello University [[here]](https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
+Project PET House – A Research Innovation to Tackling Plastic Pollution in Ahmadu Bello University **[[here]]**(https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
 
 Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP9FLlY4xAb )
 
