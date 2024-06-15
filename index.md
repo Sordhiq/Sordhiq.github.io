@@ -7,21 +7,21 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 
 ## 🎓 Education
 
-**Data Science [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)** 
- _World Quant University, United States_  
+**Data Science [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
+_World Quant University, United States_  
 
 
-**Data Science (Professional Certification)**  
+**Data Science [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
 _Explore Data Science Academy, South Africa_  
 
-**Statistics and Data Analytics (Bachelors Degree)**  
+**Statistics and Data Analytics [(Bachelors Degree)](https://drive.google.com/file/d/1D9u0-uy35f7rZ2cm7tyePATANMz5pBDG/view?usp=drive_link)**  
 _Ahmadu Bello University, Zaria - Nigeria_  
 
 ---
 
 ## 💼 Work Experiences
 
-**Data Analytics Tutor (Remote)**      
+**Data Analytics Instructor [(Remote)](https://odumaretch.com)**      
   _OdumareTech, United Kingdom_
 
 **Data Analyst**          
@@ -35,6 +35,10 @@ _Lagos Audit Service Commission, Nigeria_
 
 ---
 ## 🔬 Research and Publications
+
+Understanding Relationships between Species, Nucleotide Sequences and how Variation Influences Habitat Prediction using eDNA Samples [[here]]([Habitat's Clusters](https://gainforest.notion.site/AI-Environment-Hackathon-2024-Wiki-27f7f5459ea743b2bec1b9b11af54ef4?p=002d7ee74a4d41859fa09412180facd3&pm=s)
+
+
 Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria [[here]](https://www.researchgate.net/publication/364309400)
 
 Project PET House – A Research Innovation to Tackling Plastic Pollution in Ahmadu Bello University [[here]](https://asfischolar.com/event/poster/NhgsvdWSRGpSXmmo)
@@ -45,14 +49,16 @@ Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP
 
 ## 🔭 Projects
 ---
-| **20 years Study of Cape Town Preciptation over Time** |
-
-
-| <img src="/img/Precip over time.png" alt="Project Pix" width="100%" /> |
+**Predicting Habitat Using eDNA Sequences**
+| <img src="/img/habitat's clusters.png" alt="Project Pix" width="100%" /> |
 
 ---
-Athena: Health classification model
-<img src="/img/health clust.png" alt="Project Pix" width="100%" />
+**20years Precipitation Study (Cape Town)**
+| <img src="/img/Precip over time.png" alt="Project Pix" width="100%" /> |
+---
+
+**Athena: Health Classification Model**
+| <img src="/img/health clust.png" alt="Project Pix" width="100%" /> |
 
 ---
 
