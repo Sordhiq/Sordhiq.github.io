@@ -12,7 +12,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 _World Quant University, United States_  
 
 
-**Data Science Qualification [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
+**Data Science Qualification [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**
 _Explore Data Science Academy, South Africa_  
 
 **Statistics and Data Analytics [(Bachelors Degree)](https://drive.google.com/file/d/1D9u0-uy35f7rZ2cm7tyePATANMz5pBDG/view?usp=drive_link)**  
