@@ -7,11 +7,11 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 
 ## 🎓 Education
 
-**Data Science [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
+**Applied Data Science Lab [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
  _World Quant University, United States_  
 
 
-**Data Science [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
+**Data Science Qualification [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
 _Explore Data Science Academy, South Africa_  
 
 **Statistics and Data Analytics [(Bachelors Degree)](https://drive.google.com/file/d/1D9u0-uy35f7rZ2cm7tyePATANMz5pBDG/view?usp=drive_link)**  
