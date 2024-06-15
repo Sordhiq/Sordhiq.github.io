@@ -76,4 +76,4 @@ Data Science in Environmental Sustainability [[here]](https://link.medium.com/qP
 
 
 
-<embed type="text/html" src="img/dac.html" width="400" height="400"> </embed>
+<embed type="text/html" src="img/dac.html" width="400" height="400">
