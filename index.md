@@ -9,7 +9,7 @@ Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionat
 ---
 
 **Applied Data Science Lab [(Professional Certification)](https://www.credly.com/badges/393cca59-574d-46ce-b666-18e53eeb58ac/public_url)**
-_World Quant University, United States_  
+  _World Quant University, United States_  
 
 
 **Data Science Qualification [(Professional Certification)](https://drive.google.com/file/d/1cKwLpMDd0CSjjohoMyfOAiKeDVlMO7UQ/view?usp=drive_link)**  
