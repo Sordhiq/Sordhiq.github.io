@@ -1,7 +1,7 @@
 # Sodiq Jinad
 
 ---
-Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data advancing climate action and sustainable development. My area of interest lies in the application of machine learning and scientific in advancing climate mitigation and adaptation.
+Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data in advancing climate action and attainment of sustainable development. My area of interest lies at the intersection of machine learning and scientific processes in advancing climate mitigation and adaptation.
 
 ---
 
@@ -37,7 +37,7 @@ _Lagos Audit Service Commission, Nigeria_
 ## 🔬 Research and Publications
 ---
 
-Understanding Relationships between Species, Nucleotide Sequences and how Variation Influences Habitat Prediction using eDNA Samples **[[here]](https://gainforest.notion.site/AI-Environment-Hackathon-2024-Wiki-27f7f5459ea743b2bec1b9b11af54ef4?p=002d7ee74a4d41859fa09412180facd3&pm=s)**
+Understanding Relationships between Species and Nucleotide Sequences for Habitat Prediction using eDNA Samples **[[here]](https://gainforest.notion.site/AI-Environment-Hackathon-2024-Wiki-27f7f5459ea743b2bec1b9b11af54ef4?p=002d7ee74a4d41859fa09412180facd3&pm=s)**
 
 
 Statistical Study on the Impact of Climatic Factors on the Prevalence of Malaria **[[here]](https://www.researchgate.net/publication/364309400)**
