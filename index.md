@@ -54,7 +54,7 @@ Data Science in Environmental Sustainability **[[link]](https://link.medium.com/
 **Timeseries Project Study (Cape Town)**
 <img src="/img/Avg Temp by Time.png" alt="Project Pix" width="100%" /> 
 
-**20years Precipitation Study (Cape Town)**
+**Precipitation Study (Cape Town)**
 <img src="/img/Precip over time.png" alt="Project Pix" width="100%" /> 
 
 
