@@ -22,16 +22,16 @@ Ahmadu Bello University, Zaria - Nigeria
 ---
 
 **Data Analytics Instructor (Remote)**      
-OdumareTech [link](https://odumaretch.com)
+OdumareTech [[link]](https://odumaretch.com)
 
 **Data Analyst**          
-Lagos State Bureau of Statistics [link](https://lagosmepb.org/lagos-bureau-of-statistics/)
+Lagos State Bureau of Statistics [[link]](https://lagosmepb.org/lagos-bureau-of-statistics/)
 
 **Research Assistant**  
-Enhancing Financial Innovation and Access (EFInA)[link](https://efina.org.ng/)
+Enhancing Financial Innovation and Access (EFInA) [[link]](https://efina.org.ng/)
 
 **Audit Analyst**  
-Lagos Audit Service Commission[link](https://asc.lagosstate.gov.ng/)
+Lagos Audit Service Commission [[link]](https://asc.lagosstate.gov.ng/)
 
 ---
 ## 🔬 Research and Publications
