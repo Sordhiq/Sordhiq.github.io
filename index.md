@@ -1,7 +1,7 @@
 # Sodiq Jinad
 
 ---
-Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data in advancing climate action and attainment of sustainable development. My area of interest lies at the intersection of machine learning and scientific processes in advancing climate mitigation and adaptation.
+Hi there, I'm Sodiq, a data scientist, researcher and climate advocate passionate about the application of data in advancing climate action and attainment of the sustainable development goals. My area of interest lies at the intersection of machine learning and scientific processes in advancing climate mitigation and adaptation.
 
 ---
 
